@@ -94,7 +94,7 @@ char menu(){
         printf("Pasirinkite programos veiksma:\n");
         printf("0. Sukurti sarasa\n");
         printf("1. Atspausdinti sarasa\n");
-        printf("2. Iterpti nauja elementa\n");
+        printf("2. Iterpti nauja skaiciu\n");
         printf("3. Uzdaryti programa\n");
         printf("Pasirinkimas: ");
 

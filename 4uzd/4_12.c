@@ -25,9 +25,15 @@ int main(){
         }
         else if(menuNum==2){
             printf("Iveskite kurioje vietoje iterpti skaiciu: ");
-            scanf("%d",&pos);
+            while(scanf("%d",&pos)!=1||getchar()!='\n'){
+                printf("Iveskite kurioje vietoje iterpti skaiciu: ");
+                while(getchar()!='\n');
+            }
             printf("Iveskite koki skaiciu iterpti: ");
-            scanf("%d",&insNum);
+            while(scanf("%d",&insNum)!=1||getchar()!='\n'){
+                printf("Iveskite koki skaiciu iterpti: ");
+                while(getchar()!='\n');
+            }
             insertAfter(pos,insNum);
         }
         printf("\n");

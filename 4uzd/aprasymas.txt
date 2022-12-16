@@ -20,3 +20,4 @@ Viso: 7h 40min
 Pačią programą ir jos funkcijas su dvigubu sąrašu nebuvo sunku parašyti, nes daug informacijos
 yra internete šia tema. Tačiau sunkiau buvo sugalvoti kaip parašyti rekursyvią rikiavimo funkciją
 ir ją pritaikyti dvigubam sarašui. Dar šiek tiek užtrukau ilgiau nei tikėjaus su header failu.
+Eigoje reikėjo ir prisiminti kaip veikia rodyklės.
