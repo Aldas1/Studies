@@ -1,0 +1,22 @@
+Prognozė:
+Sąrašo sukūrimo funkcija - 30 min.
+Sąrašo spausdinimo funkcija - 10 min.
+Užduoties atlikimas (algoritmas) - 1h 30 min
+Kodavimo standarto sudarymas - 2h
+Testų sudarymas - 1h 30 min.
+Teorinės žinios - 3h
+Viso: 8h 40min
+
+Realus laikas:
+Sąrašo sukūrimo funkcija - 50 min.
+Sąrašo spausdinimo funkcija - 10 min.
+Užduoties atlikimas (algoritmas) - 40 min
+Kodavimo standarto sudarymas - 30 min
+Testų sudarymas - 1h.
+Teorinės žinios - 3h
+Rekursyvi funkcija - 1h 30 min.
+Viso: 7h 40min
+
+Pačią programą ir jos funkcijas su dvigubu sąrašu nebuvo sunku parašyti, nes daug informacijos
+yra internete šia tema. Tačiau sunkiau buvo sugalvoti kaip parašyti rekursyvią rikiavimo funkciją
+ir ją pritaikyti dvigubam sarašui. Dar šiek tiek užtrukau ilgiau nei tikėjaus su header failu.

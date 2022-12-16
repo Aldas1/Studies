@@ -1,0 +1,53 @@
+All names:
+    - Understandable and meaningful names
+    Correct: int number
+    Wrong: int n
+
+Structure names:
+    - Should start with a capital letter
+    Correct: *Structure*
+    Wrong: *structure*
+
+Variable names:
+    - Should use camelCase
+    Correct: *variableName*
+    Wrong: *variable_name*
+
+Function names:
+    - Should use camelCase
+    - Should be understandable without comments
+    Correct: *createVariable*
+    Wrong: *cr_v*
+
+Braces:
+    - Braces should start on the end of line
+    - Braces should end on a new line
+    Correct: doSomething{
+
+    }
+    Wrong: doSomething
+    {
+
+    }
+
+Spacing:
+    - Tabs should be used for indentation
+    - All nested code should be indented by one Tab
+    Correct:
+    if(){
+        *code*
+    }
+    Wrong:
+    if(){
+    *code*
+    }
+
+Comments:
+    - Comments should be added where the code is hard to understand
+    - Otherwise comments should be avoided
+    - Comments should be present before the line which the comment is reffering to
+    Correct:
+    //comment
+    *code*
+    Wrong:
+    *code*//coment
